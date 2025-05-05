@@ -1,1 +1,1 @@
-# a place to explore our course
+# a place to explore my code
