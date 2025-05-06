@@ -5,6 +5,6 @@
 
 ## Graphs
 
-![Relationship Between Microbe and Plant Richness!](/clairemcklin/Rplot51.png "Relationship Between Microbe and Plant Richness")
+![Relationship Between Microbe and Plant Richness!](/clairemcklin/Rplot51.png)
 
 ## Project Reflection
