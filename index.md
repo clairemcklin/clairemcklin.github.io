@@ -7,4 +7,6 @@
 
 ![Rplot51.png!](/Rplot51.png "Relationship Between Plant and Microbe Richness")
 
+![Rplot47.png!](/Rplot47.png "Relationship Between Plant and Microbe Richness")
+
 ## Project Reflection
