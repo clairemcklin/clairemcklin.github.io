@@ -5,6 +5,6 @@
 
 ## Graphs
 
-
+![Rplot51.png!] 
 
 ## Project Reflection
