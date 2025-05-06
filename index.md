@@ -5,6 +5,6 @@
 
 ## Graphs
 
-![Rplot51.png!] 
+![Rplot51.png!](/Rplot51.png "Relationship Between Plant and Microbe Richness")
 
 ## Project Reflection
