@@ -21,7 +21,7 @@
 
 ## Code
 
-[Link To Biodiversity Code Used in this Project](https://github.com/clairemcklin/clairemcklin.github.io/blob/b0df39e89076a31a77f2a6da017f4422db911f20/biodiversity.R)
+[Link To Code Used in this Project](https://github.com/clairemcklin/clairemcklin.github.io/blob/b0df39e89076a31a77f2a6da017f4422db911f20/biodiversity.R)
 
 
 ## Conclusion
