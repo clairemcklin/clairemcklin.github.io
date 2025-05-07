@@ -15,6 +15,7 @@
 <img src="/boxplot_moisture.png" alt="Shannon Diversity Index by Soil Moisture" title="Shannon Diversity Index by Soil Moisture" width="470"/>
 
 ### Comparing Fungi and Plant Species Richness
+<img src="/Rplot49.png" alt="Relationship Between Fungi and Plant Richness" title="Relationship Between Fungi and Plant Richness" width="470"/>
 
 
 ## Code
