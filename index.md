@@ -6,6 +6,9 @@
 ## Graphs
 
 ![rich_scatter.png!](/rich_scatter.png "Relationship Between Plant and Microbe Richness")
+
+<img src="/rich_scatter.png" alt="Relationship Between Plant and Microbe Richness" title="Relationship Between Plant and Microbe Richness" width="400"/>
+
 ![Rplot47.png!](/Rplot47.png "Relationship Between Plant and Microbe Richness")
 
 ![boxplot_temp.png!](/boxplot_temp.png "Shannon Diversity Index by Soil Temperature")
