@@ -9,4 +9,6 @@
 
 ![Rplot47.png!](/Rplot47.png "Relationship Between Plant and Microbe Richness")
 
+![boxplot_temp.png!](/boxplot_temp.png "Shannon Diversity Index by Soil Moisture")
+
 ## Project Reflection
