@@ -15,7 +15,13 @@
 
 ## Code
 
-[Biodiversity Code](https://github.com/clairemcklin/clairemcklin.github.io/blob/b0df39e89076a31a77f2a6da017f4422db911f20/biodiversity.R)
+[Link To Biodiversity Code](https://github.com/clairemcklin/clairemcklin.github.io/blob/b0df39e89076a31a77f2a6da017f4422db911f20/biodiversity.R)
 
 
-## Project Reflection
+## Conclusion
+
+<ul>
+  <li>There is a positive correlation between plant and soil microbe biodiversity that is partially caused by soil moisture and temperature.</li>
+  <li>Lower soil temperatures and higher moisture contents generally showed a higher correlation between plant and microbe/fungi biodiversity.</li>
+  <li>Future directions: analyze correlations between plant and microbe biodiversity in sites before and after ecosystem restoration or degradation</li>
+</ul>
