@@ -7,7 +7,8 @@
 
 ![rich_scatter.png!](/rich_scatter.png "Relationship Between Plant and Microbe Richness")
 
-<img src="/rich_scatter.png" alt="Relationship Between Plant and Microbe Richness" title="Relationship Between Plant and Microbe Richness" width="400"/>
+<img src="/rich_scatter.png" alt="Relationship Between Plant and Microbe Richness" title="Relationship Between Plant and Microbe Richness" align = left width="400"/>
+<img src="/Rplot47.png" alt="Relationship Between Plant and Microbe Richness" title="Relationship Between Plant and Microbe Richness" align = right width="400"/>
 
 ![Rplot47.png!](/Rplot47.png "Relationship Between Plant and Microbe Richness")
 
