@@ -12,7 +12,6 @@
 
 ### Comparing Total Microbe and Plant Shannon Diversity Indices by Soil Properties
 <img src="/boxplot_temp.png" alt="Shannon Diversity Index by Soil Temperature" title="Shannon Diversity Index by Soil Temperature" align = left width="800"/>
-
 <img src="/boxplot_moisture.png" alt="Shannon Diversity Index by Soil Moisture" title="Shannon Diversity Index by Soil Moisture" align = left width="800"/>
 
 ### Comparing Fungi and Plant Species Richness
