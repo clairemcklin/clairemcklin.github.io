@@ -6,9 +6,9 @@
 ## Graphs
 
 ### Comparing Total Microbe and Plant Species Richness
-![rich_scatter.png!](/rich_scatter.png "Relationship Between Plant and Microbe Richness")
+<img src="/rich_scatter.png" alt="Relationship Between Plant and Microbe Richness" title="Relationship Between Plant and Microbe Richness" align = left width="600"/>
 
-![Rplot47.png!](/Rplot47.png "Relationship Between Plant and Microbe Richness")
+<img src="/Rplot47.png" alt="Relationship Between Plant and Microbe Richness" title="Relationship Between Plant and Microbe Richness" align = left width="600"/>
 
 ### Comparing Total Microbe and Plant Shannon Diversity Indices by Soil Properties
 ![boxplot_temp.png!](/boxplot_temp.png "Shannon Diversity Index by Soil Temperature")
