@@ -9,12 +9,10 @@
 <img src="/rich_scatter.png" alt="Relationship Between Plant and Microbe Richness" title="Relationship Between Plant and Microbe Richness" align = left width="470"/>
 <img src="/Rplot47.png" alt="Relationship Between Plant and Microbe Richness" title="Relationship Between Plant and Microbe Richness" align = right width="470"/>
 
+
 <img src="/boxplot_temp.png" alt="Shannon Diversity Index by Soil Temperature" title="Shannon Diversity Index by Soil Temperature" align = left width="470"/>
 <img src="/boxplot_moisture.png" alt="Shannon Diversity Index by Soil Moisture" title="Shannon Diversity Index by Soil Moisture" align = right width="470"/>
 
-![boxplot_temp.png!](/boxplot_temp.png "Shannon Diversity Index by Soil Temperature")
-
-![boxplot_moisture.png!](/boxplot_moisture.png "Shannon Diversity Index by Soil Moisture")
 
 ## Code
 
