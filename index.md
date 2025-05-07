@@ -5,7 +5,7 @@
 
 ## Graphs
 
-![Rplot51.png!](/Rplot51.png "Relationship Between Plant and Microbe Richness")
+![Rplot51.png!](/Rplot51.png "Relationship Between Plant and Microbe Richness" = 250x250)
 ![Rplot47.png!](/Rplot47.png "Relationship Between Plant and Microbe Richness")
 
 ![boxplot_temp.png!](/boxplot_temp.png "Shannon Diversity Index by Soil Temperature")
