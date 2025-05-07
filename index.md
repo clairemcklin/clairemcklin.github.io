@@ -29,5 +29,6 @@
 <ul>
   <li>There is a positive correlation between plant and soil microbe biodiversity that is partially caused by soil moisture and temperature.</li>
   <li>Lower soil temperatures and higher moisture contents generally showed a higher correlation between plant and microbe/fungi biodiversity.</li>
+  <li>Trend lines showing correlations between fungi and plant biodiversity are more similar across soil moisture and temperature groups </li>
   <li>Future directions: analyze correlations between plant and microbe biodiversity in sites before and after ecosystem restoration or degradation</li>
 </ul>
