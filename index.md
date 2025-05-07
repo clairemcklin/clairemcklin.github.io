@@ -15,6 +15,7 @@
 
 ## Code
 
-(https://clairemcklin.github.io)/<clairemcklin>/<clairemcklin>/biodiversity.R/<commit_SHA>/biodiversity.R?plain=1
+[Biodiversity Code](https://github.com/clairemcklin/clairemcklin.github.io/blob/b0df39e89076a31a77f2a6da017f4422db911f20/biodiversity.R)
+
 
 ## Project Reflection
