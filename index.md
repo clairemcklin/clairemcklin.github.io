@@ -3,6 +3,10 @@
 ## Abstract
 <p>Plant-microbe relationships play an important role in maintaining plant health and ecosystem resilience, but global climate change threatens to disrupt these vital ecosystem interactions. This study examines how soil microbial biodiversity affects plant biodiversity using R to visualize data from the National Ecological Observatory Network (NEON). Based on existing literature, I predict that plant biodiversity will increase as soil microbe biodiversity increases. I will measure biodiversity using the Shannon Diversity Index and species richness values. The Soil Microbe Community Composition, Plant Presence and Percent Cover, and Soil Physical and Chemical Properties datasets from NEON will be used to investigate the relationship between plant and microbe biodiversity. Soil temperature from nineteen sites across different climate zones in the United States will be compared to the plant and microbe biodiversity data to show differences in diversity and species richness among different climates and habitat types. Plant and microbe species reliant on interspecies symbiotic relationships may be under harm by rising global temperatures; differences in climate niches between interdependent species may cause increased rates of extinction as global temperatures increase. However, the relationship between plants and soil microbes may also be harnessed to restore ecosystems degraded by natural or anthropogenic disasters through sustainable agricultural practices.</p>
 
+## Methods
+
+[Link To Code Used in this Project](https://github.com/clairemcklin/clairemcklin.github.io/blob/b0df39e89076a31a77f2a6da017f4422db911f20/biodiversity.R)
+
 ## Graphs
 
 ### Comparing Total Microbe and Plant Species Richness
@@ -18,10 +22,6 @@
 <img src="/fungi_scatter.png" alt="Relationship Between Fungi and Plant Richness" title="Relationship Between Fungi and Plant Richness" width="470"/>
 <img src="/Rplot49.png" alt="Relationship Between Fungi and Plant Richness" title="Relationship Between Fungi and Plant Richness" width="470"/>
 
-
-## Code
-
-[Link To Code Used in this Project](https://github.com/clairemcklin/clairemcklin.github.io/blob/b0df39e89076a31a77f2a6da017f4422db911f20/biodiversity.R)
 
 
 ## Conclusion
